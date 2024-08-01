@@ -1,4 +1,0 @@
-This is a new file. new line.
-:x
-
-
