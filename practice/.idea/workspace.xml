@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2k36iY5Xfo8MTCDzEq6TvRg6Jjk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +34,7 @@
   "keyToString": {
     "Application.Calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "cal",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/media/taher/New Volume/GitPracticeScaler/practice",
     "node.js.detected.package.eslint": "true",
@@ -62,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722500041042</updated>
       <workItem from="1722500042064" duration="561000" />
+      <workItem from="1722500764196" duration="505000" />
     </task>
     <servers />
   </component>
